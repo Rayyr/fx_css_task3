@@ -1,0 +1,78 @@
+body{
+    width:100%;
+}
+.product{
+ 
+    
+    float:left;
+    width:24%;
+    margin-bottom: 25px;
+    margin-right:2px;
+     border:grey solid
+   
+}
+
+.product img{
+    width:50%;
+    
+}
+
+ .before{
+    text-decoration: line-through;
+    display:inline;
+    font-size: 12px;
+    color:red;
+  
+   
+}
+ 
+.after{
+    display:inline;
+    color:green;
+    
+    
+}
+
+.bag{
+     
+    background-color: rgb(71, 71, 243);
+    border:2px blue solid;
+    color:white;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+}
+
+.heart{
+    border:2px blue solid;
+    background-color:white;
+    color:blue;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+ 
+
+.test{
+    display:  block;
+    margin-top:20px;
+    margin-bottom: 10px;
+    margin-left:5px;
+ 
+}
+
+p{
+    margin-left:5px;
+}
+
+h3{
+    margin-left:5px;
+}
+
+ 
